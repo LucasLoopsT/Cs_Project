@@ -40,6 +40,9 @@ There are special characters you put in the text, and they generate specific tag
     </td>
   </tr>
   <tr>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
     <td align="center" width="200px">    
       <h3>Input - Text:</h3>
       <hr>
@@ -58,6 +61,9 @@ There are special characters you put in the text, and they generate specific tag
       <pre>+</pre>
       <br>
     </td>       
+  </tr>
+  <tr>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td align="center" width="200px">    
